@@ -1,0 +1,7 @@
+%YAML 1.2
+---
+#https://developers.google.com/recaptcha
+recaptcha:
+  siteKey: 7LdVZAcTATAAAKFafsaaafN-gG2vz5SIWD
+  secretKey: 7LdVZAcTATAAAKFafsaaafN-gG2vz5SIWD
+  verifyingUri: https://www.google.com/recaptcha/api/siteverify

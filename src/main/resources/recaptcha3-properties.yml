@@ -1,0 +1,23 @@
+%YAML 1.2
+---
+#https://developers.google.com/recaptcha
+recaptcha:
+  configs:
+    -
+      siteKey: 1111AcTATAAAKFafsaaafN-gG2vz5SIWD
+      secretKey: 
+        id: 1
+        key: 7LdVZAcTATAAAKFafsaaafN-gG2vz5SIWD
+      verifyingUri: https://www.google.com/recaptcha/api/siteverify
+    -
+      siteKey: 2222AcTATAAAKFafsaaafN-gG2vz5SIWD
+      secretKey: 
+        id: 2
+        key: 7LdVZAcTATAAAKFafsaaafN-gG2vz5SIWD
+      verifyingUri: https://www.google.com/recaptcha/api/siteverify
+    -
+      siteKey: 3333cTATAAAKFafsaaafN-gG2vz5SIWD
+      secretKey: 
+        id: 3
+        key: 7LdVZAcTATAAAKFafsaaafN-gG2vz5SIWD
+      verifyingUri: https://www.google.com/recaptcha/api/siteverify
