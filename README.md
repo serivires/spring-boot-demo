@@ -1,9 +1,9 @@
 ![](http://therealdanvega.com/wp-content/uploads/2016/01/spring-logo.png)
 # Spring-Boot
-	- Starter POMs
-	- YAML 파일 데이터 객체에 매핑하여 로드하기
-	- Remote Shell
-	- 서버 재시작 없이 개발하기
+- Starter POMs
+- YAML 파일 데이터 객체에 매핑하여 로드하기
+- Remote Shell
+- 서버 재시작 없이 개발하기
 
 ### 1. Starter POMs
 spring-boot는 classpath에 jar들을 추가하기 쉽도록 다양한 'Starter POMs'를 제공한다.
